@@ -8,6 +8,7 @@ export default class Jumbotron extends React.Component<any, any>{
             name: "Felipe",
             count: 0
         };
+        
     }
 
     public handleChange(event: any) : void {
