@@ -7,6 +7,7 @@ export default class Jumbotron extends React.Component<any, any>{
         this.state = {
             name: "Felipe",
             count: 0
+            
         };
         
     }
